@@ -1,0 +1,28 @@
+* First create a conda environment with all the required packages needed by lalsuite.
+* This can be dont by accessing the a file in lalsuite folder. 
+$ cd lalsuite/conda/
+* then open the environment.yml file using a your prefered editor. Change the name of the environment to something you want
+$ conda env create -f environment.yml
+* or if you want to add the packages in an already existing conda env, then change the name inside environment.yml according to that env.
+$ run the following command
+$ conda env update --file environment.yml
+
+* Its time to install lalsuite
+* go to lalsuite folder and run the following commands
+$ ./00boot
+$ ./configure --prefix=${HOME}/lalsuite-install 
+$ make clean
+$ make 
+$ make install
+
+* this will create a lalsuite installed folder which needs to be link to the current env. Go to your home directory and run this command. 
+$ . /lalsuite-install/etc/lalsuite-user-env.sh
+* now lalsuite env is linked to your current conda env.
+
+* To check open python
+$ python
+>> import lalsimulation
+* if it shows no error, then you have successfully install lalsuite
+
+
+
