@@ -6,6 +6,8 @@ $z_{min} = \mathcal{R}_{min}$
 
 $\mathcal{R}_{min} = z_{min}$
 
+$R_{min} = z_{min}$
+
 $\mathcal{R} = z_{min}$
 
 $\mathcal{R}^0_{min} = z_{min}$
