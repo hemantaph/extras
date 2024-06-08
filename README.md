@@ -2,4 +2,4 @@
 
 ## Multiline equation test
 
-$\mathcal{R}_U = 10$
+$\mathcal{R}_U = \frac{d N^U_{obs}(z_s)}{d \tau }$
