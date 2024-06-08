@@ -2,4 +2,4 @@
 
 ## Multiline equation test
 
-$\mathcal{R}_U = \frac{1}{\tau}$
+$\mathcal{R}_U = \frac{\alpha}{\tau}$
