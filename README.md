@@ -2,4 +2,4 @@
 
 ## Multiline equation test
 
-$$\mathcal{R}_U = \int_{z_{min}}$$
+$\mathcal{R}_U = 10$
