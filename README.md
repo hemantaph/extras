@@ -2,7 +2,7 @@
 
 ## Multiline equation test
 
-$\mathsrc{R}_{min} = z_{min}$
+$\text{R}_{min} = z_{min}$
 
 $R_{min} = z_{min}$
 
