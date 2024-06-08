@@ -2,4 +2,4 @@
 
 ## Multiline equation test
 
-$\mathcal{R} = z_{min}$
+$\mathcal{R}_{U} = z_{min}$
