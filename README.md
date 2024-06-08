@@ -2,4 +2,4 @@
 
 ## Multiline equation test
 
-$\mathcal{R}_U = zmin$
+$\mathcal{R}_U = z_m_i_n$
