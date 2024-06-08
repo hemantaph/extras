@@ -2,7 +2,7 @@
 
 ## Multiline equation test
 
-$\mathcal{R}_{min} = \int_{z_{min}}^{z_{max}}$
+$\mathcal{R}_{min}=\int_{z_{min}}^{z_{max}}$
 
 $$ \begin{split} 
 U_m &= \int_{z_{min}}^{z_{max}} \frac{d N^U_{obs}(z_s)}{d \tau} \\
