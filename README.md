@@ -2,4 +2,4 @@
 
 ## Multiline equation test
 
-$\alpha$
+$\mathcal{R}_U$
